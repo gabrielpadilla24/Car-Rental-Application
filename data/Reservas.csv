@@ -1,0 +1,5 @@
+Cédula Cliente,Categoria Vehiculo,Fecha Inicio,Fecha Fin,Sede donde fue recogido,Sede donde va a ser entregado,Seguros Incluidos,Conductores adicionales,Marca,Modelo,Placa
+1000612069,Convertible,10/12/2023,10/12/2023,Sede Cartagena,Sede Cartagena,Seguro cubre todo,1,Audi,Ecologica,HMS285
+1000777651,Convertible,10/12/2023,10/12/2023,Sede Cartagena,Sede Cartagena,Seguro intermedio,3,Audi,Ecologica,HMS285
+1000612069,Convertible,10/12/2023,10/12/2023,Sede Cartagena,Sede Cartagena,Seguro intermedio,3,Audi,Electrica,ABS607
+1025060179,Convertible,10/12/2023,13/12/2023,Sede Cartagena,Sede Cartagena,Seguro básico,0,Audi,Ecologica,HMS285

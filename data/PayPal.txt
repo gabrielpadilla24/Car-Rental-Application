@@ -1,0 +1,4 @@
+Transacción Exitosa - Fecha: 16:52:52.897311500 - Monto: $105000.0 - Número de Tarjeta: **** **** **** 123456789
+Transacción Exitosa - Fecha: 21:59:24.799848 - Monto: $190000.0 - Número de Tarjeta: **** **** **** 123123123
+Transacción Exitosa - Fecha: 22:04:23.197018 - Monto: $123123.0 - Número de Tarjeta: **** **** **** 21323123
+Transacción Exitosa - Fecha: 22:11:00.480087 - Monto: $123234.0 - Número de Tarjeta: **** **** **** 1231312

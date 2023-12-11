@@ -1,0 +1,102 @@
+﻿Placa;Marca;Modelo;Color;Categoria;Sede;Tipo;% Prima Seguro
+DKU104;Chevrolet;Gas;Gris;Sedan;Sede Arauca;Carro;0.1
+ZLH200;Audi;Gasolina;Negro;Camioneta;Sede Arauca;Moto;0.2
+HXQ188;Volvo;Hibrida;Amarillo;Camioneta;Sede Santa Marta;Moto;0.3
+HMS285;Audi;Ecologica;Azul;Convertible;Sede Cartagena;Carro;0.4
+XVZ635;Audi;Gasolina;Blanco;Sedan;Sede Venezuela;Carro;0.5
+CKO364;BMW;Hibrida;Rojo;Camioneta;Sede Arauca;Carro;0.6
+WSQ290;Audi;Gasolina;Rojo;Sedan;Sede Cartagena;Carro;0.7
+HCU377;Toyota;Hibrida;Amarillo;Convertible;Sede Amazonas;Moto;0.8
+MTX545;Audi;Gas;Azul;Camioneta;Sede Santa Marta;Moto;0.9
+SPH846;BMW;Ecologica;Negro;Sedan;Sede Amazonas;Carro;1.0
+BHE885;BMW;Gasolina;Rojo;Camioneta;Sede Cartagena;Carro;1.1
+QIQ615;BMW;Gas;Amarillo;Campero;Sede Cartagena;Carro;0.10
+WCI461;Chevrolet;Gas;Blanco;Sedan;Sede Arauca;Carro;0.11
+XLL737;Nissan;Hibrida;Rojo;Convertible;Sede Amazonas;Moto;0.12
+AMM840;Audi;Gas;Azul;Sedan;Sede Cartagena;Moto;0.13
+MVC286;BMW;Hibrida;Amarillo;Campero;Sede Venezuela;Carro;0.14
+WHM420;Toyota;Gasolina;Azul;Campero;Sede Venezuela;Carro;0.15
+UQU260;Nissan;Ecologica;Amarillo;Camioneta;Sede Santa Marta;Carro;0.16
+VJX119;BMW;Gas;Gris;Convertible;Sede Venezuela;Carro;0.17
+ZTZ145;Toyota;Electrica;Gris;Sedan;Sede Cartagena;Moto;0.18
+RDM646;Nissan;Electrica;Blanco;Camioneta;Sede Arauca;Moto;1.2
+LUJ349;Volvo;Hibrida;Blanco;Campero;Sede Cartagena;Carro;1.3
+NLP812;Audi;Electrica;Negro;Sedan;Sede Cartagena;Carro;0.19
+JBR760;Chevrolet;Electrica;Negro;Sedan;Sede Arauca;Carro;0.20
+OVJ187;Toyota;Electrica;Blanco;Sedan;Sede Venezuela;Carro;0.21
+KCL867;Nissan;Gasolina;Gris;Convertible;Sede Arauca;Moto;0.22
+SZN602;Nissan;Gasolina;Negro;Sedan;Sede Arauca;Moto;0.23
+LPJ893;Toyota;Ecologica;Rojo;Sedan;Sede Amazonas;Carro;0.24
+AQF049;Nissan;Gasolina;Azul;Sedan;Sede Bogota;Carro;0.25
+WDF092;Chevrolet;Ecologica;Blanco;Convertible;Sede Cartagena;Carro;0.26
+VAD465;Toyota;Gasolina;Azul;Sedan;Sede Cartagena;Carro;0.27
+GMC668;Nissan;Gasolina;Amarillo;Camioneta;Sede Bogota;Moto;1.4
+EOY698;Nissan;Gasolina;Amarillo;Camioneta;Sede Arauca;Moto;1.5
+SNI010;Volvo;Gasolina;Negro;Camioneta;Sede Amazonas;Carro;0.28
+BVC227;BMW;Ecologica;Amarillo;Camioneta;Sede Cartagena;Carro;0.29
+MOD945;Nissan;Hibrida;Azul;Campero;Sede Santa Marta;Carro;0.30
+WFS086;Nissan;Ecologica;Blanco;Camioneta;Sede Bogota;Carro;0.31
+EPP919;Chevrolet;Hibrida;Blanco;Camioneta;Sede Cartagena;Moto;0.32
+FHG103;Nissan;Gas;Azul;Sedan;Sede Santa Marta;Moto;0.33
+ATQ605;Volvo;Gas;Negro;Sedan;Sede Santa Marta;Carro;0.34
+BIW728;Volvo;Gasolina;Azul;Convertible;Sede Cartagena;Carro;0.35
+RXS920;BMW;Gas;Gris;Sedan;Sede Bogota;Carro;0.36
+HUE336;Toyota;Gasolina;Amarillo;Campero;Sede Venezuela;Carro;1.6
+HLB114;Chevrolet;Electrica;Rojo;Camioneta;Sede Arauca;Moto;1.7
+DXP146;Chevrolet;Gasolina;Amarillo;Sedan;Sede Bogota;Moto;0.37
+ABS607;Audi;Electrica;Blanco;Convertible;Sede Cartagena;Carro;0.38
+TCK028;Toyota;Electrica;Blanco;Camioneta;Sede Santa Marta;Carro;0.39
+ZUM824;Nissan;Ecologica;Amarillo;Sedan;Sede Bogota;Carro;0.40
+UOQ061;Nissan;Ecologica;Gris;Sedan;Sede Arauca;Carro;0.41
+OVW426;Toyota;Gasolina;Blanco;Sedan;Sede Santa Marta;Moto;0.42
+AIC135;Nissan;Gas;Negro;Sedan;Sede Venezuela;Moto;0.43
+VWV026;Toyota;Ecologica;Rojo;Campero;Sede Arauca;Carro;0.44
+PLR681;Audi;Electrica;Gris;Camioneta;Sede Santa Marta;Carro;0.45
+OYM325;Toyota;Ecologica;Azul;Camioneta;Sede Amazonas;Carro;1.8
+NDR516;BMW;Gasolina;Amarillo;Convertible;Sede Cartagena;Carro;1.9
+YNF465;Nissan;Hibrida;Rojo;Camioneta;Sede Arauca;Moto;0.46
+ZAH719;BMW;Hibrida;Azul;Campero;Sede Amazonas;Moto;0.47
+FMD908;Audi;Gas;Blanco;Convertible;Sede Arauca;Carro;0.48
+KJE010;Nissan;Hibrida;Gris;Camioneta;Sede Venezuela;Carro;0.49
+BTM246;Chevrolet;Hibrida;Negro;Sedan;Sede Bogota;Carro;0.50
+XEW494;Volvo;Hibrida;Gris;Campero;Sede Venezuela;Carro;0.51
+MUA359;Toyota;Ecologica;Negro;Campero;Sede Arauca;Moto;0.52
+DYC472;Volvo;Hibrida;Amarillo;Campero;Sede Amazonas;Moto;0.53
+RMN504;Nissan;Gasolina;Amarillo;Campero;Sede Santa Marta;Carro;0.54
+XIN132;Nissan;Electrica;Gris;Campero;Sede Venezuela;Carro;1.10
+OPR770;BMW;Hibrida;Negro;Sedan;Sede Venezuela;Carro;1.11
+EUI139;BMW;Ecologica;Blanco;Sedan;Sede Arauca;Carro;0.55
+NTL777;Chevrolet;Gasolina;Gris;Sedan;Sede Arauca;Moto;0.56
+VYK055;Nissan;Hibrida;Gris;Convertible;Sede Santa Marta;Moto;0.57
+GDY374;BMW;Ecologica;Amarillo;Convertible;Sede Bogota;Carro;0.58
+QWW720;Nissan;Gas;Gris;Camioneta;Sede Santa Marta;Carro;0.59
+KCV690;Nissan;Gasolina;Gris;Camioneta;Sede Arauca;Carro;0.60
+YSB461;Nissan;Electrica;Amarillo;Sedan;Sede Venezuela;Carro;0.61
+NCM701;Audi;Hibrida;Azul;Camioneta;Sede Amazonas;Moto;0.62
+TDB040;Audi;Electrica;Azul;Camioneta;Sede Cartagena;Moto;0.63
+EPV157;Toyota;Hibrida;Blanco;Camioneta;Sede Bogota;Carro;1.12
+OGV523;BMW;Ecologica;Negro;Sedan;Sede Santa Marta;Carro;1.13
+MNM752;Toyota;Hibrida;Azul;Campero;Sede Cartagena;Carro;0.64
+AAT356;Chevrolet;Gasolina;Rojo;Campero;Sede Amazonas;Carro;0.65
+VTI065;Toyota;Hibrida;Azul;Convertible;Sede Bogota;Moto;0.66
+QMA510;Chevrolet;Electrica;Amarillo;Campero;Sede Bogota;Moto;0.67
+IXF648;Audi;Gas;Azul;Sedan;Sede Santa Marta;Carro;0.68
+MCT061;BMW;Hibrida;Rojo;Sedan;Sede Amazonas;Carro;0.69
+TMO135;Chevrolet;Ecologica;Amarillo;Camioneta;Sede Bogota;Carro;0.70
+BYV114;Toyota;Electrica;Rojo;Sedan;Sede Amazonas;Carro;0.71
+GKV764;Toyota;Gas;Negro;Convertible;Sede Cartagena;Moto;0.72
+OCM454;Chevrolet;Hibrida;Rojo;Sedan;Sede Bogota;Moto;1.14
+HFU674;Toyota;Ecologica;Blanco;Convertible;Sede Amazonas;Carro;1.15
+WBK601;Volvo;Gas;Azul;Campero;Sede Santa Marta;Carro;0.73
+JYZ585;Chevrolet;Ecologica;Azul;Convertible;Sede Bogota;Carro;0.74
+DGB040;Chevrolet;Hibrida;Negro;Sedan;Sede Arauca;Carro;0.75
+ZID956;Nissan;Ecologica;Amarillo;Camioneta;Sede Amazonas;Moto;0.76
+MLI915;Nissan;Ecologica;Rojo;Camioneta;Sede Cartagena;Moto;0.77
+YYX117;Volvo;Ecologica;Negro;Campero;Sede Venezuela;Carro;0.78
+RJS034;Nissan;Hibrida;Amarillo;Sedan;Sede Venezuela;Carro;0.79
+CEO258;Audi;Ecologica;Azul;Campero;Sede Arauca;Carro;0.80
+MVK410;Chevrolet;Electrica;Negro;Campero;Sede Santa Marta;Carro;0.81
+KBH383;Toyota;Gas;Gris;Convertible;Sede Amazonas;Moto;1.16
+RYU280;Toyota;Ecologica;Blanco;Camioneta;Sede Arauca;Moto;1.17
+DBL861;Toyota;Gasolina;Gris;Camioneta;Sede Bogota;Carro;0.82
+CZQ104;Toyota;Gasolina;Blanco;Camioneta;Sede Bogota;Carro;0.83

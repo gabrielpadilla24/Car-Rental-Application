@@ -1,0 +1,3 @@
+ApiKey=apikey_payu
+MerchantId=merchant_id_payu
+ConfiguracionExtra=valor_extra_payu	
